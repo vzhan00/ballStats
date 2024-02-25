@@ -1,0 +1,13 @@
+names:
+- Basketball Hoop
+- Basketball
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: basketball-lhqoe
+  url: https://universe.roboflow.com/034-ganesh-kumar-m-v-cs-r2lwe/basketball-lhqoe/dataset/1
+  version: 1
+  workspace: 034-ganesh-kumar-m-v-cs-r2lwe
+test: ../test/images
+train: train/images
+val: valid/images
